@@ -17,7 +17,7 @@ struct PostView: View {
                 Image(systemName: "ellipsis")
             }
             .padding(.horizontal, 8)
-            Image(.butterflaps).resizable().scaledToFit()
+            Image(.butterflie).resizable().scaledToFit()
             HStack(spacing: 16) {
                 Image(systemName: "heart")
                 Image(systemName: "message")
